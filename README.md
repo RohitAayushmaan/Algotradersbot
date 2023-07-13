@@ -1,2 +1,2 @@
 # Algotradersbot
-This is financial market website of Algotradersbot.com Company
+This is financial market website of Algotradersbot.com Company 
